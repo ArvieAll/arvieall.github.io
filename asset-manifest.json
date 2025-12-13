@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.184cdf76.css",
-    "main.js": "/static/js/main.6a2cb5d7.js",
+    "main.css": "/static/css/main.98444e37.css",
+    "main.js": "/static/js/main.ab73e8f8.js",
     "static/js/539.c116a9c4.chunk.js": "/static/js/539.c116a9c4.chunk.js",
     "static/js/453.a2605c50.chunk.js": "/static/js/453.a2605c50.chunk.js",
     "static/media/chest.mp3": "/static/media/chest.fc46894c5b3cb53e00cb.mp3",
     "static/media/click.mp3": "/static/media/click.ceb78f1dc6aa570f2b05.mp3",
     "static/media/Minecraft.woff": "/static/media/Minecraft.4afaad98dacce11bbea3.woff",
     "index.html": "/index.html",
-    "main.184cdf76.css.map": "/static/css/main.184cdf76.css.map",
-    "main.6a2cb5d7.js.map": "/static/js/main.6a2cb5d7.js.map",
+    "main.98444e37.css.map": "/static/css/main.98444e37.css.map",
+    "main.ab73e8f8.js.map": "/static/js/main.ab73e8f8.js.map",
     "453.a2605c50.chunk.js.map": "/static/js/453.a2605c50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.184cdf76.css",
-    "static/js/main.6a2cb5d7.js"
+    "static/css/main.98444e37.css",
+    "static/js/main.ab73e8f8.js"
   ]
 }
